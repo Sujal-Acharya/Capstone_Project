@@ -20,7 +20,7 @@ This capstone project applies **Natural Language Processing (NLP)** and **deep l
 
 - Cleans and preprocesses financial news headlines
 - Vectorizes text using `CountVectorizer`
-- Trains an **LSTM neural network** for sentiment classification
+- Trains an **RandomForest Classifier model** for sentiment classification
 - Evaluates performance using precision, recall, F1-score
 - Predicts sentiment of custom user-input headlines
 
