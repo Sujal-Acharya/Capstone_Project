@@ -1,6 +1,6 @@
 # 🧠 Stock Market Sentiment Analysis using News Headlines
 
-This capstone project applies **Natural Language Processing (NLP)** and **deep learning (LSTM)** to predict stock market sentiment based on news headlines. The model is trained to classify whether a given headline signals a positive or negative stock movement.
+This capstone project applies **Natural Language Processing (NLP)**  to predict stock market sentiment based on news headlines. The model is trained to classify whether a given headline signals a positive or negative stock movement.
 
 ---
 
