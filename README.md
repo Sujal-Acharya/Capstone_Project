@@ -57,12 +57,12 @@ This capstone project applies **Natural Language Processing (NLP)** and **deep l
 
 | Metric     | Value |
 |------------|-------|
-| Accuracy   | 0.90  |
-| Precision  | 0.89  |
-| Recall     | 0.90  |
-| F1-Score   | 0.89  |
+| Accuracy   | 0.85  |
+| Precision  | 0.87  |
+| Recall     | 0.85  |
+| F1-Score   | 0.85  |
 
-> ✅ The model achieved **90% accuracy** on the test dataset.
+> ✅ The model achieved **85% accuracy** on the test dataset.
 
 ---
 
