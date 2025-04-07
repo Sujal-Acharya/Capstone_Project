@@ -8,7 +8,7 @@ This capstone project applies **Natural Language Processing (NLP)** and **deep l
 📁 Capstone_NLP/
 │
 ├── Capstone_NLP.ipynb      # Main notebook with code for preprocessing, training & prediction
-├── trained_lstm_model.h5   # Saved LSTM model
+├── trained randomclassifier_model.h5   # Saved  model
 ├── data/
 │   └── news.csv            # Input dataset with headlines and sentiment labels
 ├── README.md               # Project overview and instructions
@@ -46,7 +46,7 @@ This capstone project applies **Natural Language Processing (NLP)** and **deep l
    - Convert headlines into numeric form using Bag-of-Words
 
 3. **Model Training**
-   - LSTM model trained on processed input
+   - RandomForest Classifier model trained on processed input
 
 4. **Prediction**
    - Input custom headlines for sentiment prediction
